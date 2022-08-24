@@ -1,0 +1,6 @@
+code: alltywpsql-table-widget
+titles:
+  en: Alltywpsql Table Widget
+  it: Alltywpsql Table Widget
+group: free
+customUiPath: alltywpsql-table-widget.ftl

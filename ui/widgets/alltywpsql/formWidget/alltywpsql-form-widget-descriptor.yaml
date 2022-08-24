@@ -1,0 +1,6 @@
+code: alltywpsql-form-widget
+titles:
+  en: Alltywpsql Form Widget
+  it: Alltywpsql Form Widget
+group: free
+customUiPath: alltywpsql-form-widget.ftl
