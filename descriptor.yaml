@@ -1,0 +1,13 @@
+code: bndlallworkingpsql
+description: This is the bndlallworkingpsql bundle
+
+components:
+  plugins:
+    - plugins/bndlallworkingpsql-plugin.yaml
+
+  widgets:
+    - ui/widgets/alltywpsql/tableWidget/alltywpsql-table-widget-descriptor.yaml
+    - ui/widgets/alltywpsql/detailsWidget/alltywpsql-details-widget-descriptor.yaml
+    - ui/widgets/alltywpsql/formWidget/alltywpsql-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
